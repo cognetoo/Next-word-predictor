@@ -1,0 +1,1 @@
+This end to end deep learning project uses shakespeare's hamlet as a dataset source and predicts the next word of user input using LSTM architecture.
